@@ -42,3 +42,5 @@ return {
 ```
 
 ![avator](./等间距.gif)
+
+[antd-mobile中的issue原文](https://github.com/ant-design/ant-design-mobile/issues/2124)
